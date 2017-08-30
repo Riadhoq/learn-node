@@ -1,15 +1,13 @@
 {
   "name": "@riadhoq/workspace",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
   "main": "server.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Riadhoq/learn-node.git"
   },
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "node test.js",
